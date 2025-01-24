@@ -1,10 +1,15 @@
 # ✨ **Hello, I'm Burhan Ali!**
 
-Hi there! 👋 I'm **Burhan Ali**, a curious and passionate **Junior Developer** with a knack for solving problems creatively. My journey is fueled by a love for **technology**, **innovation**, and an endless desire to learn and grow. Currently pursuing a **Bachelor’s degree in Computer Applications (BCA)**, I’m diving deep into the tech world and building cool stuff along the way.
+Hi there! 👋 I'm **Burhan Ali**, a curious and passionate **Python Developer** with a knack for solving problems creatively. My journey is fueled by a love for **technology**, **innovation**, and an endless desire to learn and grow. Currently pursuing a **Bachelor’s degree in Computer Applications (BCA)**, I’m diving deep into the tech world and building cool stuff along the way.
 
 ---
 
 ## 🔧 **What I Do**
+
+### **Python Development**
+- 🐍 As a **full-time Python Developer**, I focus on building **robust**, **scalable**, and **efficient** Python projects.
+- 🔄 Continuously learning and applying **Python best practices** to create solutions that address real-world challenges.
+- 📂 From utility scripts to advanced automation systems, Python is at the heart of everything I do.
 
 ### **Web Development**
 - 🌐 Crafting **responsive** and **interactive websites** using **HTML**, **CSS**, **JavaScript**, and **Python**.
@@ -16,22 +21,18 @@ Hi there! 👋 I'm **Burhan Ali**, a curious and passionate **Junior Developer**
 - 🔌 Programming in **C++** and **Python** to bring sensors and actuators to life.
 - 🌟 Creating **IoT-based solutions** to simplify everyday tasks and make life smarter.
 
-### **Python Development**
-- 🐍 Building **tools** and **projects** to enhance my Python expertise.
-- 📂 From utility scripts to scalable applications, I love exploring Python’s versatility in solving problems.
-
 ---
 
 ## 🔬 **What I'm Building**
+- **Python-Centric Projects**: Developing tools and applications that showcase the versatility and power of Python.
 - **Smart Automation Systems**: Merging embedded systems and IoT to create innovative solutions for everyday life.
 - **Web Applications**: Developing sleek, functional, and data-driven websites using modern technologies.
-- **Python Projects**: Crafting Python-based tools that address real-world challenges.
 
 ---
 
 ## 📖 **What I'm Learning**
 - 🧠 **Advanced Python Programming**: Writing efficient, scalable, and clean code for diverse applications.
-- 🌟 **Emerging Web Technologies**: Keeping up with the latest frameworks and tools in web development.
+- 🌟 **Python Frameworks & Libraries**: Exploring frameworks like **Flask**, **Django**, and **Pandas** to broaden my expertise.
 - 🔨 **Project Development**: Building hands-on experience with projects that challenge my skills and creativity.
 
 ---
