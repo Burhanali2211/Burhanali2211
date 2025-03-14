@@ -57,8 +57,8 @@ When I'm not writing code, you'll find me:
 I'm always open to collaboration, learning opportunities, and interesting discussions. Feel free to explore my repositories and reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gamingcristy19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://dmdset.netlify.app)
 
 ---
 
