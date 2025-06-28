@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png" alt="Burhan Ali Banner"/>
+  <img src="[https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.png](https://github.com/Burhanali2211/Burhanali2211/blob/1de614cdc087c708f4658deca5534e779a2c5e11/github-header-image.png)" alt="Burhan Ali Banner"/>
 </p>
 
 ---
