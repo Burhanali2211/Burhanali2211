@@ -191,86 +191,6 @@ public:
 
 ---
 
-## 🏆 Signature Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 Smart Home Automation System
-**Technologies**: ESP32, Python, MQTT, React
-
-Comprehensive home automation ecosystem featuring:
-- Voice-controlled lighting and appliances
-- Temperature & humidity monitoring with auto-adjustment
-- Mobile app for remote control and scheduling
-- Energy consumption analytics dashboard
-- Integration with Google Home & Alexa
-
-**Impact**: 40% reduction in energy costs, enhanced convenience
-
-[`View Project →`](#)
-
-</td>
-<td width="50%">
-
-### 📊 Real-Time Data Analytics Platform
-**Technologies**: Python, Flask, PostgreSQL, Chart.js
-
-Multi-tenant analytics platform with:
-- Real-time data ingestion pipeline
-- Custom visualization engine
-- Automated report generation
-- RESTful API for third-party integration
-- Role-based access control
-
-**Impact**: Processing 100K+ records daily
-
-[`View Project →`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌡️ Agricultural Monitoring IoT Solution
-**Technologies**: Arduino, Sensors, Cloud IoT
-
-Smart farming system for crop optimization:
-- Soil moisture & pH monitoring
-- Weather station integration
-- Automated irrigation control
-- SMS alerts for critical conditions
-- Historical data analysis for yield prediction
-
-**Impact**: 30% increase in crop yield efficiency
-
-[`View Project →`](#)
-
-</td>
-<td width="50%">
-
-### 🤖 Task Automation Framework
-**Technologies**: Python, Selenium, APScheduler
-
-Intelligent automation suite including:
-- Web scraping & data extraction
-- Email automation & reporting
-- File organization & backup systems
-- API integration workflows
-- Error handling & logging mechanisms
-
-**Impact**: Saving 15+ hours weekly across implementations
-
-[`View Project →`](#)
-
-</td>
-</tr>
-</table>
-
----
-
-
 ### 📚 Currently Studying
 
 <div align="center">
@@ -323,43 +243,6 @@ I believe in holistic growth that transcends code. My diverse interests fuel cre
 
 ---
 
-## 💡 Development Philosophy
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  "Code is read far more often than it is written."          │
-│                                                             │
-│  My Principles:                                             │
-│  ═══════════════════════════════════════════════════════   │
-│                                                             │
-│  🎯 Clarity Over Cleverness                                 │
-│     → Write code that explains itself                       │
-│                                                             │
-│  🔄 Iterate to Excellence                                   │
-│     → First make it work, then make it right, then optimize │
-│                                                             │
-│  🧪 Test-Driven Development                                 │
-│     → Confidence through comprehensive testing              │
-│                                                             │
-│  📚 Documentation as First-Class Citizen                    │
-│     → Future-me will thank present-me                       │
-│                                                             │
-│  🤝 Collaboration & Knowledge Sharing                       │
-│     → Rising tide lifts all boats                           │
-│                                                             │
-│  🌱 Continuous Improvement                                  │
-│     → Never stop learning, adapting, evolving               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🤝 Let's Build Something Amazing
 
 I'm always excited to collaborate on projects that make a difference. Whether you're looking to:
@@ -397,40 +280,6 @@ I'm always excited to collaborate on projects that make a difference. Whether yo
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Burhanali2211&theme=tokyonight)
 
 </div>
-
----
-
-## 🎯 2024-2025 Roadmap
-
-- [ ] Contribute to 5 major open-source projects
-- [ ] Build and deploy 3 production-grade IoT systems
-- [ ] Achieve AWS Solutions Architect certification
-- [ ] Write 12 technical blog posts
-- [ ] Mentor 10+ aspiring developers
-- [ ] Launch personal SaaS product
-- [ ] Speak at 2 tech conferences/meetups
-
----
-
-## 🏅 Certifications & Achievements
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Intermediate_Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-Responsive_Design-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Hardware_Integration-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-## 💬 Testimonials
-
-> *"Burhan's ability to seamlessly integrate hardware and software is remarkable. His IoT solutions are not just functional but elegantly designed."*  
-> **— Project Supervisor, University IoT Lab**
-
-> *"Clean code, thorough documentation, and innovative thinking. Burhan brings a professional approach to every project."*  
-> **— Open Source Contributor**
 
 ---
 
